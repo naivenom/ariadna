@@ -1,5 +1,6 @@
 # Ariadna
-Fuzzer que realiza peticiones HTTP (GET y POST) para encontrar posibles vulnerabilidades de inyección SQL y XSS basicas, mediante URL y Path (peticiones POST). Si son POST necesitamos almacenar en un fichero dicha petición e introducir el Path o ruta. 
+Fuzzer que realiza peticiones HTTP (GET y POST) para encontrar posibles vulnerabilidades de inyección SQL y Cross Site Scripting(XSS), mediante URL y Path (peticiones POST). Si son POST necesitamos almacenar en un fichero dicha petición e introducir el Path o ruta. 
+
 
 Ire añadiendo nuevas funcionalidades al fuzzer y cualquier contribución al proyecto es bienvenida. Mi Telegram/Twitter de contacto @naivenom
 
